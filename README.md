@@ -6,17 +6,17 @@
         
        
 <style>
-  body{
- background-color:linear-gradient(to bottom, #0000ff 0%, #ff0000 100%);
- }
+  div {
+    background: linear-gradient(to bottom, #0000ff 0%, #ff0000 100%);
+}
  .walter{
- width:50px;
- height:100px;}
+ width:250px;
+ }
   </style>
 
-<div class="walters">
+
 <img class="walter" src='https://lh3.googleusercontent.com/WFxm-gl_QxwE2VGS8OjVLcuU7PudEAI47RzPmF862yC8UnO8VNjTBDxpqPA5J6h6Co9IRODwHNHTEO-_7Cwis0GvtabtHROhM8Ti0EJj3z20dUC_W9QqDIQCjR6FuSAG-UTmtyO7SQ=w2400' />
- </div>
+
     </head>
     <body>
        I made this in coding today, so Walter has his own web page now for the whole world.
