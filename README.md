@@ -13,6 +13,6 @@
 <img src='https://lh3.googleusercontent.com/WFxm-gl_QxwE2VGS8OjVLcuU7PudEAI47RzPmF862yC8UnO8VNjTBDxpqPA5J6h6Co9IRODwHNHTEO-_7Cwis0GvtabtHROhM8Ti0EJj3z20dUC_W9QqDIQCjR6FuSAG-UTmtyO7SQ=w2400' alt="walter" width=150px/></a>
     </head>
     <body>
-       
+       I made this in coding today, so Walter has his own web page now for the whole world.
     </body>
 </html>
