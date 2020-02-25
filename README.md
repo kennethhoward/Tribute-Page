@@ -7,9 +7,10 @@
        
 <style>
   body{
- background-color:rgb(0,0,255);
+ background-color:linear-gradient(to bottom, #0000ff 0%, #ff0000 100%);
  .walter{
- width:150px;
+ width:50px;
+ height:100px;
   </style>
 <a href='https://photos.google.com/share/AF1QipNxAC1B1Jz6unw-Ym0P0F7hmd18--x9UvLg-NOTDMC2ZhCPxuMf1CZGjultfzRAHw?key=cXo1Q0FSNktNcFlSdmpucVgyd19tdFQzaGxuUGVn&source=ctrlq.org'>
 <div class="walter">
