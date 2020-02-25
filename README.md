@@ -58,7 +58,7 @@
     }
     .hound{
         width:194px;
-        margin-left:28%;
+        margin-left:50%;
         border-style:dotted ridge;
         border-color:rgb(2,209,171);
     }  
