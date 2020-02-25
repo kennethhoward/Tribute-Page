@@ -8,9 +8,10 @@
 <style>
   body{
  background-color:linear-gradient(to bottom, #0000ff 0%, #ff0000 100%);
+ }
  .walter{
  width:50px;
- height:100px;
+ height:100px;}
   </style>
 
 <div class="walters">
