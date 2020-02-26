@@ -19,6 +19,9 @@
 
     </head>
     <body>
-       I made this in coding today, so Walter has his own web page now for the whole world.
+    <ol>
+<li>    Walter was born on March 1st 2019 </li>
+<li> He is of Czech descent</li>
+    </ol>
     </body>
 </html>
