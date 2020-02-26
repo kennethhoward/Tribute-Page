@@ -19,9 +19,9 @@
 
     </head>
     <body>
-    <ol>
+    <ul>
 <li>    Walter was born on March 1st 2019 </li>
 <li> He is of Czech descent</li>
-    </ol>
+    </ul>
     </body>
 </html>
